@@ -17,4 +17,4 @@ Always learning and growing with new technologies to create better solutions.
 
 ## 📊 GitHub Stats
 
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit-kumar&count_private=true&show_icons=true&hide=prs)
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit-sah&count_private=true&show_icons=true&hide=prs)
