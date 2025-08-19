@@ -6,7 +6,6 @@
 
 ---
 
-
 <!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sumit-sah&theme=dark)
 
@@ -14,11 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sah&layout=compact&theme=dark)
 
 <!-- Social Shields -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumit-sah-746b14249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sumitsah1729@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sumit_sah_1729/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -54,3 +49,9 @@
 ## 💬 Connect with Me
 
 Feel free to reach out via email or connect on social media!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumit-sah-746b14249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sumitsah1729@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sumit_sah_1729/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
